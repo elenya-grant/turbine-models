@@ -1,6 +1,6 @@
 # Release Notes
 
-## Unreleased, TBD
+## Version 0.2.2, April 3, 2026
 * Updated links for lab name change (renamed from NREL to NLR or NatLabRockies)
 
 ## Version 0.2.1, Nov 26, 2025
